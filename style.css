@@ -1,4 +1,7 @@
-/* ===== Buttons Css ===== */
+.titulo-header {
+  font-family: 'Dancing Script', cursive;
+}
+
 .primary-btn {
   background: var(--primary);
   color: var(--white);
