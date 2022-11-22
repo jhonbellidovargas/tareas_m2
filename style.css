@@ -403,6 +403,10 @@
   background-color: transparent;
   color: var(--white);
 }
+
+main {
+  padding: 20px;
+}
 /*===========================
   card-01 css
 ===========================*/
